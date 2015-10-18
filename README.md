@@ -1,5 +1,5 @@
 # org-import-wunderlist
-Converts wunderlist-export.json to an org-mode file.
+Converts wunderlist-export.json to an Org-mode file.
 
 This is *not* a synchronization tool. It’s just meant to convert your Wunderlist data to Org-mode. Use it if you want to dump Wunderlist.
 
